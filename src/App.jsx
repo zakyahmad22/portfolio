@@ -207,7 +207,7 @@ function App() {
                 desc: "Aplikasi reservasi makanan online dengan fitur pemesanan, pembayaran, dan manajemen menu berbasis PHP & MySql.",
 
                 link: "#",
-                img: "/public/assets/img/reservasi.png",
+                img: "/assets/img/reservasi.png",
                 tags: ["PHP", "MySql", "JavaScript", "Tailwind"],
                 status: "✅ Selesai",
               },
@@ -216,7 +216,7 @@ function App() {
                 desc: "Website profil Pondok Pesantren dengan sistem pendaftaran santri baru berbasis PHP, MySql, & Tailwind.",
 
                 link: "#",
-                img: "/public/assets/img/pesantren.png",
+                img: "/assets/img/pesantren.png",
                 tags: ["PHP", "MySql", "Tailwind"],
                 status: "✅ Selesai",
               },
@@ -225,7 +225,7 @@ function App() {
                 desc: "Website portfolio pribadi untuk menampilkan proyek, skill, dan kontak.",
 
                 link: "#",
-                img: "/public/assets/img/portfolio.png",
+                img: "/assets/img/portfolio.png",
                 tags: ["React", "Tailwind", "Vite"],
                 status: "✅ Selesai",
               },
