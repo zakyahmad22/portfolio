@@ -9,7 +9,7 @@ function App() {
 
         {/* Teks Hero */}
         <div className="z-10 flex-1 text-center md:text-left space-y-6">
-          <h1 className="text-5xl md:text-6xl font-extrabold tracking-wide drop-shadow-lg animate-fade-up delay-200">
+          <h1 className="text-5xl md:text-5xl font-extrabold tracking-wide drop-shadow-lg animate-fade-up delay-200">
             Halo, Saya Ahmad Zaky
           </h1>
           <p className="text-lg md:text-2xl text-gray-300 animate-fade-up delay-400">
@@ -33,7 +33,7 @@ function App() {
           <a
             href="#about"
             className="inline-block bg-indigo-600 hover:bg-indigo-700 px-8 py-4 rounded-full shadow-lg text-white font-semibold transition transform hover:scale-110 animate-fade-up delay-800">
-            🚀 Lihat Selengkapnya
+            Lihat Selengkapnya
           </a>
         </div>
 
